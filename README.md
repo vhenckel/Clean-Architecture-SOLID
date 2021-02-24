@@ -45,7 +45,6 @@ Tópicos abordados:
 ## :hammer: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
-
 - NodeJS
 - Typescript
 - MongoDB
@@ -53,7 +52,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Docker
 - Swagger
 - Jest
-
 - Design Patterns
 - Clean Architecture
 - SOLID
@@ -94,5 +92,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 # :thought_balloon: Inspiração
 - Esta aplicação faz parte do curso [NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID](https://www.udemy.com/course/tdd-com-mango/) criado por [Rodrigo Manguinho - CTO do Chega+](https://www.linkedin.com/in/rmanguinho/).
 
-Feito com&nbsp;❤️&nbsp;|&nbsp;🧠&nbsp;por Vitor Henckel&nbsp;👨🏼‍💻&nbsp;&nbsp;👊🏻&nbsp;&nbsp;🚀&nbsp;&nbsp;👽&nbsp;&nbsp;🛸
+Feito com&nbsp;&nbsp;❤️&nbsp;&nbsp;|&nbsp;&nbsp;🧠&nbsp;&nbsp;por Vitor Henckel&nbsp;👨🏼‍💻&nbsp;&nbsp;👊🏻&nbsp;&nbsp;🚀&nbsp;&nbsp;👽&nbsp;&nbsp;🛸<br>
 👋🏻 &nbsp;&nbsp;[Get in touch!](https://github.com/vhenckel)
