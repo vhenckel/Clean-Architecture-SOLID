@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vhenckel/Clean-Architecture-SOLID/issues"
   },
-  "homepage": "https://github.com/vhenckel/Clean-Architecture-SOLID#readme"
+  "homepage": "https://github.com/vhenckel/Clean-Architecture-SOLID#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
