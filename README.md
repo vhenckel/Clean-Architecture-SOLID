@@ -7,6 +7,7 @@ Uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patte
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vhenckel/Clean-Architecture-SOLID?label=javascript&style=for-the-badge">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vhenckel/Clean-Architecture-SOLID?style=for-the-badge">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/vhenckel/Clean-Architecture-SOLID?style=for-the-badge">
+  <img alt="Scrutinizer code quality (GitHub/Bitbucket)" src="https://img.shields.io/scrutinizer/quality/g/vhenckel/Clean-Architecture-SOLID/main?style=for-the-badge">
 </p>
 
 <p align="center">
