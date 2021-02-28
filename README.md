@@ -11,7 +11,7 @@ Uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patte
 
 <p align="center">
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-iniciando-mobile">Tecnologias</a>
+  <a href="#hammer-tecnologias">Tecnologias</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -42,6 +42,7 @@ Tópicos abordados:
 - Usar Middleware com permissão de acesso
 - Usar recursos avançados do Typescript como Utility Types, Interface, TypeAlias, Modularização de Paths
 - Gerar documentação de API com Swagger
+
 ## :hammer: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
