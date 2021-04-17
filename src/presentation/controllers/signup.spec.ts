@@ -97,7 +97,7 @@ describe('SignUp Controller', () => {
 
   test('Should call EmailValidator with correct email', () => {
     const { sut, emailValidatorStub } = makeSut()
-    const isValidSpy = jest.spyOn(emailValidatorStub, 'isValid').mockReturnValueOnce(false)
+    const isValidSpy = jest.spyOn(emailValidatorStub, 'isValid')
     const httpRequest = {
       body: {
         name: 'any_name',
